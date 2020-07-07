@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="gobal_name">Global Famous</string>
+    <string name="weekly_name">Weekly Trends</string>
+    <string name="Best_name">Best Artist</string>
+    <string name="playlist_name">My Playlist</string>
+</resources>
